@@ -1,26 +1,22 @@
 # frontend-nanodegree-arcade-game
-=================================================================
+
 Frontend nanodegree arcade game is project that is part of frontend developer online course run by udacity.
 to get more info about the course [here](https://udacity.com/) and if you want the orginal source code [here](https://github.com/udacity/frontend-nanodegree-arcade-game).
 
 
 ## Arcade Game 
-=================================================================
 Arcade Game is a game that you can spend an enjoyable fun time playing with it.
 
 ## Picture of the Game
-=================================================================
 ![Game Image](images/CaptureFromTheGame.jpg )
 
 
 
 ## Starting
-=================================================================
 All you need to run the game is a browser and you are good to go.
 
 
 ## Playing 
-=================================================================
 You have to move toward the water and try to avoid the Bugs otherwise the Bugs will kill you and obviously you lose.
 Everytime you reach to the water you will get one score.
 *the games takes one of four inputs:*
