@@ -8,8 +8,7 @@ to get more info about the course [here](https://udacity.com/) and if you want t
 Arcade Game is a game that you can spend an enjoyable fun time playing with it.
 
 ## Picture of the Game
-![Game Image](images/CaptureFromTheGame.jpg )
-
+![Game Image](https://github.com/SamiNM/frontend-nanodegree-arcade-game/blob/gh-pages/images/CaptureFromTheGame.JPG )
 
 
 ## Starting
